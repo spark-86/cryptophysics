@@ -278,7 +278,7 @@ Once we adopt sidereal time, we need a **unit system** to express temporal posit
 -   **Turn**: One sidereal day (≈ 86,164.0905 seconds)
 -   **Mark**: 1/1,000 of a Turn (≈ 86.16409 seconds)
 -   **Submark**:1/1,000,000 of a Turn (≈ 0.086 seconds)
--   **Micromark**: 1/1,000,000 of a Mark (≈ 86 microseconds)
+-   **Micromark**: 1/1,000,000,000 of a Mark (≈ 86 microseconds)
 
 This hierarchy provides:
 
