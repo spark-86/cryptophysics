@@ -1,5 +1,9 @@
 # Cryptophysics: A Practical Guide
 
+BY VERONICA HODO
+
+REVISION 2
+
 ## Table of Contents
 
 -   [Preface — A Line in Time](#preface-a-line-in-time)
