@@ -340,7 +340,7 @@ The Genesis record defines Turn 0, Mark 0, Submark 0, Micromark 0. Every subsequ
 
 ---
 
-## <a name="1.8-temporal-substrate-vs-timestamping"></a 1.8 Temporal Substrate vs Timestamping
+## <a name="1.8-temporal-substrate-vs-timestamping"></a> 1.8 Temporal Substrate vs Timestamping
 
 It’s tempting to think Genesis Time is just a fancy timestamp. But the difference between **substrate** and **metadata** is the difference between **geometry** and **labels**.
 
