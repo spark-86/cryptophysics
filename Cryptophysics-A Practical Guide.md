@@ -1258,7 +1258,7 @@ Multiple quorum signatures may be aggregated to form a single multi-signature st
 Once all signatures are gathered, the system performs a **final hash** across the entire record to produce the `current_hash`. (⬇️🧬) This value represents the complete, finalized state of the record, incorporating intent, author signature, usher signature, and any quorum attestations:
 
 ```
-current_hash = H(magic || intent || context || signatures)
+current_hash = H(intent || context || signatures)
 ```
 
 This `current_hash` is what ultimately chains the record into the ledger. It acts as the permanent cryptographic fingerprint of the event, linking it to its predecessor via `previous_hash` and anchoring it immutably in time. Any future alteration, however minor, would produce a divergent hash and break the chain, making tampering immediately detectable.
