@@ -1,5 +1,5 @@
 # Cryptophysics: A Practical Guide
-
+![Cover](9C6DF8CD-60F0-4E1F-9906-595A478B3ACD.png)
 BY VERONICA HODO
 
 REVISION 2
