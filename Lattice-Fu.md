@@ -72,7 +72,7 @@ Lattice-Fu is the practice of aligning thought and action with the temporal stre
 - **“The lattice is simple; humans are not. Let the math hold the weight.”**  
   Lean into deterministic structure so people can focus on being gloriously messy humans.
 
-- **"Lies burn bright			 in the constant light."**  
+- **"Lies burn bright in the constant light."**  
   Falsehoods can't survive perpetual, public scrutiny - the lattice makes sure of it.  
 
 ---
