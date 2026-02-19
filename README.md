@@ -96,14 +96,14 @@ The library is organized into **six core volumes**, each focusing on a pillar of
 
 ## 🗂 **Directory Structure**
 
-```
+```text
 /
 ├── 📚 book/                 # Full manuscript (Markdown)
 ├── 📜 papers/               # Core papers by topic (see index above)
 ├── 🧠 examples/             # Reference implementations & schemas
 ├── 🧰 tools/                # Command-line & SDK tools
 ├── 🧪 specs/                # Temporal math, R⬢ schema, protocol definitions
-└── README.md               # You are here
+└── README.md                # You are here
 ```
 
 ---

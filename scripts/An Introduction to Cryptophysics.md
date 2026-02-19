@@ -30,7 +30,15 @@ White screen, black text "Append. Nothing Else Matters."
 
 (( FADE IN TO THE LATTICE ))
 
-V/O: "It doesn't take much to change the world. Just got to hate date math enough to come up with a new clock that is elegantly mathematical. The philosophy we're talking about is called Trust Architecture. It's a new way to look at data structures by making time a core component of the record itself. Each of these structures—these luminous hexagons—represents an R⬢, a Record Hex. It’s not a file. It’s an event crystallized in spacetime: who acted, what they did, when they did it, and under which scope of meaning. Each one contains its own proof of existence. Together, they tessellate into the lattice—an informational crystal that never forgets." 
+V/O: "It doesn't take much to change the world.
+Just got to hate date math enough to come up with a new clock that is elegantly mathematical.
+The philosophy we're talking about is called Trust Architecture.
+It's a new way to look at data structures by making time a core component of the record itself.
+Each of these structures—these luminous hexagons—represents a wrecks (R⬢), a Record Hex.
+It’s not a file.
+It’s an event crystallized in spacetime: who acted, what they did, when they did it, and under which scope of meaning.
+Each one contains its own proof of existence.
+Together, they tessellate into the lattice—an informational crystal that never forgets."
 
 (( SHOW CLOCK AND DATA MERGING? IDK ))
 
@@ -40,7 +48,7 @@ V/O: "To add time though, we have to have an absolute version of time, one that 
 
 ## Slide 8 - Fields flying in
 
-V/O: "Once we have the clock, we need the intent. The author casts their intent in the form of 7 fields. 
+V/O: "Once we have the clock, we need the intent. The author casts their intent in the form of 7 fields.
 
 - previous_hash: The BLAKE3 hash of its predecessor.
 - scope: Namespace of the record to be appended.
@@ -55,6 +63,7 @@ V/O: "Once we have the clock, we need the intent. The author casts their intent 
 This is the molecular structure of a truth event. Seven fields, each immutable once cast, bound together by a cryptographic signature. A single R⬢ is about 1.5 kilobytes—smaller than a tweet, yet heavy enough to anchor truth for eternity."
 
 (( CROSS CUT ))
+
 ## Slide 9 - Show the data being signed
 
 V/O: "Each record is submitted to an 'usher' for validation and temporal attestation. If the intent passes, the usher stamps it with the context, which consists of the current Genesis Time, and optionally spacial coordinates. The usher then signs over the author's signature and the context, performing the first transparent, verifiable attestation to the record. Think of the usher as a notary crossed with an atomic clock. They don’t judge the message; they confirm it existed, right then. That’s all truth needs—timing and witness."
@@ -95,7 +104,7 @@ V/O: "Acme Produce then collects the tomatoes from the McKenzies as an action on
 
 ## Slide 16 - Delivery Guy bring in tomatoes
 
-V/O: "Now we have the tomatoes arriving at Joe's. Now all Joe has to do is scan the manifest, and now has COMPLETE knowledge of the produce he's buying, including if it was handled correctly."
+V/O: "Now we have the tomatoes arriving at Joe's. All Joe has to do is scan the manifest, and he now has COMPLETE knowledge of the produce he's buying, including if it was handled correctly."
 
 ## Slide 17 - Show menu with QR code
 
@@ -137,7 +146,6 @@ White screen, black text: "Time is the substrate. Everything else is scaffolding
 
 V/O: "That's right, the lattice comes into play even here, at the register. Something as simple as paying for food still has its fingerprints in the lattice."
 
-
 ## Slide 25 - Show the Register Screen
 
 V/O: "Joe's register knows about the cryptographically bound tomatoes and has already figured it into his food costs, can show cost over time, and provides providence. But what else can we do with the lattice here?"
@@ -156,7 +164,7 @@ V/O: "This modest fee funds the Universal Basic Income Trust, set up by the Trus
 
 ## Slide 29 - Show a person at the register
 
-V/O: "And since VeroCoin is just a lattice R⬢ tied to your SelfID, payment becomes not a transaction, but a handshake. The register shows the total as a QR code with a challenge, the AR glasses or phone scan, and the UI shows a simple "Pay/Decline". Once confirmed, the client just submits the R⬢ payment to Joe's wallet. No waiting on gateways, or payment processors. No T+2 resolution. Atomic settlement."
+V/O: "And since VeroCoin is just a lattice R⬢ tied to your SelfID, payment becomes not a transaction, but a handshake. The register shows the total as a QR code with a challenge, the AR glasses or phone scan, and the UI shows a simple "Pay/Decline". Once confirmed, the client just submits the R⬢ payment to Joe's wallet. No waiting on gateways, or payment processors. No T+2 resolution. This is atomic settlement."
 
 ## Slide 30 - Lattice-Fu
 
